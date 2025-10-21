@@ -45,7 +45,7 @@ Versão testada: 15+
 ⚙️ COMO EXECUTAR
 
 1. Clonar o repositório:
-   git clone [https://github.com/seuusuario/oficina_banco.git](https://github.com/Mattos-Soph/oficina_banco.git)
+   git clone [https://github.com/Mattos-Soph/oficina_banco.git](https://github.com/Mattos-Soph/oficina_banco.git)
    cd oficina_banco
 
 2. Rodar os scripts:
